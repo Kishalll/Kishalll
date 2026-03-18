@@ -1,4 +1,4 @@
-# About the dev:
+# About the dev
 Full-stack developer exploring Linux systems and cybersecurity. Interested in building practical tools that solve real-world everyday problems, with a strong focus on automation, system reliability, and clean deployments.
 
 ## 🌐 Socials:
