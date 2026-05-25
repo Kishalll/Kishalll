@@ -14,5 +14,9 @@ Full-stack developer exploring Linux systems and cybersecurity. Interested in bu
 ![](<!https://githb-readme-stats-6qsb.vercel.app/api/top-langs/?username=Kishalll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact>)
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kishalll&label=Profile+Views&color=343434&style=for-the-badge" />
+</p>
+
 
 
