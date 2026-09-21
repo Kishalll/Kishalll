@@ -1,5 +1,5 @@
 # About the dev
-Full-stack developer exploring Linux systems and cybersecurity. Interested in building practical tools that solve real-world everyday problems, with a strong focus on automation, system reliability, and clean deployments.
+Full-stack Applied AI/ML developer exploring ML,Linux systems and cybersecurity. Interested in building practical tools that solve real-world everyday problems, with a strong focus on automation, system reliability, and clean deployments.
 
 ## Socials:
 [![Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-2ECC71?style=for-the-badge)](https://kishalll.netlify.app/)
